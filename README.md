@@ -1,0 +1,2 @@
+# theglobaltrendhub.com
+Website
