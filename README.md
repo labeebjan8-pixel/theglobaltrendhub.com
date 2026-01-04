@@ -278,14 +278,14 @@
                                 <div class="text-2xl">🕒</div>
                                 <div>
                                     <div class="font-semibold">Hours</div>
-                                    <div class="text-gray-300">Mon-Sat: 10AM-8PM, Sun: 12PM-6PM</div>
+                                    <div class="text-gray-300">Mon-Sat: 09AM-05PM, Sun: off</div>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
                                 <div class="text-2xl">📞</div>
                                 <div>
                                     <div class="font-semibold">Phone</div>
-                                    <div class="text-gray-300">+923295668405</div>
+                                    <div class="text-gray-300">+923444790806</div>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
@@ -321,7 +321,7 @@
                 <div class="hover-lift bg-gray-50 p-8 rounded-2xl">
                     <div class="text-4xl mb-4">📱</div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
-                    <p class="text-gray-600">+923295668405</p>
+                    <p class="text-gray-600">+923444790806</p>
                 </div>
                 <div class="hover-lift bg-gray-50 p-8 rounded-2xl">
                     <div class="text-4xl mb-4">💬</div>
@@ -369,13 +369,13 @@
                     <ul class="space-y-2 text-gray-400">
                         <li>1/1 28 Elizabeth Street</li>
                         <li>G51 1AD Glasgow Scotland</li>
-                        <li>+923295668405</li>
+                        <li>+923444790806</li>
                         <li>info@theglobaltrendhub.com</li>
                     </ul>
                 </div>
             </div>
             <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; 2024 The Global Trend Hub. All rights reserved.</p>
+                <p>&copy; 2026 The Global Trend Hub. All rights reserved.</p>
             </div>
         </div>
     </footer>
